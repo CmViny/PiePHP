@@ -15,7 +15,7 @@ PHP
 Clone the repository by
 
 ```bash
-  git clone git@github.com:EpitechWebAcademiePromo2023/W-PHP-502-PAR-2-1-PiePHP-viny.come.git
+  git clone git@github.com:CmViny/PiePHP.git
 ```
     
 ## Configuration
